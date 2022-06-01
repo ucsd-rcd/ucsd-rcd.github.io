@@ -2,4 +2,4 @@
 
 ## Meetings
 
-[Meeting calendar and materials](../meetings)
+[Meeting calendar and materials](/meetings/)
