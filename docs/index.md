@@ -1,3 +1,5 @@
-# Welcome to the UCSD Research Data & Computing Community
+# Welcome
 
-[Meetings](../meetings)
+## Meetings
+
+[Meeting calendar and materials](../meetings)
