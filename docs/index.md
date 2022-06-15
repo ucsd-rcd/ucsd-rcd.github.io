@@ -6,7 +6,10 @@ Research Computing and Data (RCD), also known as Cyberinfrastructure (CI), is a 
 
 Our meetings, mailing list, and other modes of communication will allow the research community to ask questions, discuss issues, and find solutions to research support challenges. Join the mailing list and "zoom" into the next meeting!
 
-## Meetings
+## Mailing list
+/deets on mailing list subscription
+
+### Meetings
 
 Our meetings are bi-monthly in the even months (February, April, June, August, October, and December) and are virtual via Zoom. See the calendar for future events and past meeting artifacts. 
 
