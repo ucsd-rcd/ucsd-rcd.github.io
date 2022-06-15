@@ -7,7 +7,8 @@ Research Computing and Data (RCD), also known as Cyberinfrastructure (CI), is a 
 Our meetings, mailing list, and other modes of communication will allow the research community to ask questions, discuss issues, and find solutions to research support challenges. Join the mailing list and "zoom" into the next meeting!
 
 ## Mailing list
-/deets on mailing list subscription
+
+Our [mailing list](https://groups.google.com/a/ucsd.edu/g/ucsd-rcd-l) is a way to stay updated on the UCSD RCD Community, ask questions, and contribute your knowledge. We'd also love to hear your ideas for this community. 
 
 ### Meetings
 
