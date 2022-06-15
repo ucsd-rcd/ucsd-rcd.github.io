@@ -8,4 +8,6 @@ Our meetings, mailing list, and other modes of communication will allow the rese
 
 ## Meetings
 
+Our meetings are bi-monthly in the even months (February, April, June, August, October, and December) and are virtual via Zoom. See the calendar for future events and past meeting artifacts. 
+
 [Meeting calendar and materials](/meetings/)
